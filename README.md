@@ -15,3 +15,6 @@
 
 [Hacking](https://drive.google.com/open?id=0B_qcqCLrxD8NaGdMZE51SUpMRkU)
 
+[Lisp](https://drive.google.com/drive/folders/0B_qcqCLrxD8NNkRIbmtkeUtWbG8)
+
+[Python](https://drive.google.com/drive/folders/0B_qcqCLrxD8NeHdIUDJuUTJ4aFE?usp=sharing)
